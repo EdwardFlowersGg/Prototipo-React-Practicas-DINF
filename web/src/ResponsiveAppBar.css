@@ -1,0 +1,46 @@
+#image{
+    width: 80px;
+    border-radius: 50%;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+#appbar{
+    background-color:rgba(230,81,0,255); 
+    height: 80px;
+    z-index: 1;
+    position: inherit;
+    
+}
+
+#name{
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+}
+
+#department{
+    color:white;
+}
+
+#practicas{
+    color: white;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+#perfil{
+    color: white;
+    font-weight: bold;
+    margin-right: 20px; 
+}
+
+#estadisticas{
+    color: white;
+    font-weight: bold;
+    margin-right: 20px; 
+}
+#informaciones{
+    color: white;
+    font-weight: bold;
+}
